@@ -4,3 +4,7 @@
 
 Here some notes from the [course Testing in Python](https://www.coursera.org/learn/python-operating-system)
 
+_____
+$~$
+
+Learning how to use the unittest library
